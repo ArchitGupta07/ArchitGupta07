@@ -20,6 +20,13 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchitGupta07&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=radical)](https://git.io/streak-stats)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchitGupta07&layout=compact&theme=default)
+
+
 
 ## Get in Touch
 - [LinkedIn](https://linkedin.com/in/architgupta07)
