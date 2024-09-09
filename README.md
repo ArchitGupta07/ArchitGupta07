@@ -16,6 +16,11 @@ Welcome to my GitHub profile! Here’s a little about me:
 - **Databases**: PostgreSQL, MySQL
 - **DevOps & Tools**: Docker, Git
 
+## GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchitGupta07&show_icons=true&theme=radical)
+
+
 ## Get in Touch
 - [LinkedIn](https://linkedin.com/in/architgupta07)
 - [Email](mailto:architgupta.rke@gmail.com)
