@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**ArchitGupta07/ArchitGupta07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm [Archit Gupta] 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! Here’s a little about me:
+
+- 🔭 I'm a Full Stack Developer.
+- 🌱 I’m currently learning: ASP.NET Core
+- 👯 I’m looking to contribute in OpenSource Projects
+
+
+## Skills & Technologies
+
+- **Languages**: Python, JavaScript, Typescipt, C#
+- **Frameworks**: React, Django, FastAPI, Next, Node, Express, ASP.NET Core
+- **Databases**: PostgreSQL, MySQL
+- **DevOps & Tools**: Docker, Git
+
+## Get in Touch
+- [LinkedIn](https://linkedin.com/in/architgupta07)
+- [Email](mailto:architgupta.rke@gmail.com)
+
