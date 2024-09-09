@@ -24,7 +24,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchitGupta07&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchitGupta07&layout=compact&theme=radical)
 
 
 
