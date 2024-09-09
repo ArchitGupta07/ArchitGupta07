@@ -1,6 +1,6 @@
 
 
-# Hi, I'm [Archit Gupta] 👋
+# Hi, I'm Archit Gupta 👋
 
 Welcome to my GitHub profile! Here’s a little about me:
 
